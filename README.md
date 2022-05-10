@@ -1,0 +1,2 @@
+# R5T.X0012
+Add-simple extensions, with typed annotation and using AddNodeResult for Roslyn syntax elements.
